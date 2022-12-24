@@ -27,13 +27,6 @@ List<ServicesUtils> servicesUtils = [
     tool: ['Flutter', 'React Native'],
   ),
   ServicesUtils(
-    name: 'UI/UX Designing',
-    icon: 'assets/icons/graphic.svg',
-    description:
-        "I'm creating elegant designs suited to your needs following core design theory. ",
-    tool: ['Adobe XD', 'Figma', 'Photoshop'],
-  ),
-  ServicesUtils(
     name: 'Web Development',
     icon: 'assets/icons/website.svg',
     description:
