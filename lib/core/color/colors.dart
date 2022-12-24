@@ -29,7 +29,10 @@ Color darkOutLineBtnColor = const Color(0xFFF3F2FF);
 const pinkpurple = LinearGradient(
   begin: Alignment.centerLeft,
   end: Alignment.centerRight,
-  colors: [Color(0XFFaa367c), Color(0XFF4a2fbd)],
+  colors: [
+    Color.fromARGB(255, 103, 222, 255),
+    Color.fromARGB(255, 228, 51, 234)
+  ],
 );
 
 const grayBack = LinearGradient(

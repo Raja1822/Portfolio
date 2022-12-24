@@ -13,14 +13,14 @@ class NavBarLogo extends StatelessWidget {
     var textSty = TextStyle(
       color: theme.textColor,
       fontWeight: FontWeight.w100,
-      fontSize: Responsive.isDesktop(context) ? 32 : 20,
+      fontSize: Responsive.isMobile(context) ? 25 : 18,
     );
 
     return Row(
       mainAxisSize: MainAxisSize.min,
       children: [
         Text("< ", style: textSty),
-        Text("Smtec", style: textSty),
+        Text("St.Mother Theresa ENGG College", style: textSty),
         Text(
           Responsive.isDesktop(context) ? ">\t\t" : ">",
           style: textSty,
