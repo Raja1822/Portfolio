@@ -18,4 +18,4 @@ const String instagram = 'https://www.instagram.com/pain._.1822';
 const String profileImage = "";
 
 // Github Link
-const String whatsapp = 'https://api.whatsapp.com/send?phone=94741325674';
+const String whatsapp = 'https://api.whatsapp.com/send?phone=+91 8300814955';
