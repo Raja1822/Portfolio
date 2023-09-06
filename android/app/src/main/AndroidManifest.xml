@@ -3,7 +3,7 @@
    <application
         android:label="portfolionew"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/raja">
         <activity
             android:name=".MainActivity"
             android:exported="true"
